@@ -1,4 +1,4 @@
-# Hah Merge 
+# Ali & Ivonne Playground
 
 A place to play with `git`.
 
